@@ -23,7 +23,7 @@ Sou Guilherme Lopes, sou de Governador Valadares-MG, sou desenvolvedor fullstack
 Gostaria de me encontrar?
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lopes-armindo-67a0a176/)](https://www.linkedin.com/in/guilherme-lopes-armindo-67a0a176/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lopes-armindo-67a0a176/)](https://www.linkedin.com/in/guilherme-lopes-armindo-67a0a176/) [![Whatsapp Badge]([![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lopes-armindo-67a0a176/)](https://www.linkedin.com/in/guilherme-lopes-armindo-67a0a176/)=https://api.whatsapp.com/send?phone=5533988056387&text=ol%C3%A1%20Guilherme%2C%20estou%20em%20seu%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es...)](https://api.whatsapp.com/send?phone=5533988056387&text=ol%C3%A1%20Guilherme%2C%20estou%20em%20seu%20site%20e%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es...)
 
 
 **Linguagens e Ferramentas:**  
