@@ -27,6 +27,10 @@ Gostaria de me encontrar?
 
 <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5533988056387"/>
 
+</a> <a href="mailto:guilopesdev@gmail.com" alt="gmail" target="_blank">
+
+<img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:guilopesdev@gmail.com" />
+
 </a>
 
 **Linguagens e Ferramentas:**  
