@@ -23,7 +23,11 @@ Sou Guilherme Lopes, sou de Governador Valadares-MG, sou desenvolvedor fullstack
 Gostaria de me encontrar?
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lopes-armindo-67a0a176/)](https://www.linkedin.com/in/guilherme-lopes-armindo-67a0a176/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-lopes-armindo-67a0a176/)](https://www.linkedin.com/in/guilherme-lopes-armindo-67a0a176/) <a href="https://wa.me/5533988056387" alt="WhatsApp" target="_blank">
+
+<img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5533988056387"/>
+
+</a>
 
 **Linguagens e Ferramentas:**  
 
