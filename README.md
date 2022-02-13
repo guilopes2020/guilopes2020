@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 -->
 
 
-Sou Guilherme Lopes, sou de Governador Valadares-MG, sou desenvolvedor fullstack,  trabalho atualmente no @grupokpg. Sou um entusiasta do desenvolvimento web e outras tecnologias que estejam envolvidas com a web.
+Sou Guilherme Lopes, sou de Governador Valadares-MG. Sou um entusiasta do desenvolvimento web e outras tecnologias que estejam envolvidas com a web.
 
 Gostaria de me encontrar?
 
